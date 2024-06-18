@@ -1,0 +1,17 @@
+.by-gender-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  width: 100%;
+  border-radius: 5px;
+  padding:20px;
+  margin-bottom:20px;
+}
+
+.heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.5;
+}
